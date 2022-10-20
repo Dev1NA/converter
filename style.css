@@ -1,0 +1,35 @@
+body {
+  background-color: aliceblue;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.heading {
+  margin: 35px auto 40px;
+  font-size: 24px;
+  color: #228b22;
+  font-weight: 700;
+}
+
+.main {
+  width: 50vw;
+  margin: auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #228b22;
+  color: white;
+}
+
+.btn {
+  width: 200px;
+}
+
+#finalAmount {
+  display: none;
+}
+
+.result {
+  margin: 10px 0;
+}
